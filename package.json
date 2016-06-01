@@ -1,15 +1,15 @@
 {
-  "name": "fis-command-install",
-  "description": "fis install command.",
-  "version": "0.2.16",
-  "author": "FIS Team <fis@baidu.com>",
-  "homepage": "http://fis.baidu.com/",
+  "name": "pangu-command-install",
+  "description": "pangu install command.",
+  "version": "0.1.0",
+  "author": "yeehoneliu",
   "keywords": [
-    "fis"
+    "pangu",
+    "install"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/fis-dev/fis-command-install.git"
+    "url": "https://github.com/yeehone/pangu-command-install.git"
   },
   "engines": {
     "node": ">= 0.8.0"
