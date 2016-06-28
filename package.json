@@ -1,7 +1,7 @@
 {
   "name": "pangu-command-install",
   "description": "pangu install command.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "yeehoneliu",
   "keywords": [
     "pangu",
